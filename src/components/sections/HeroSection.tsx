@@ -88,7 +88,7 @@ const HeroSection = ({ title, subtitle, media }: HeroSectionProps) => {
       <div className="container mx-auto px-6 relative z-20 text-left">
         <div className="max-w-5xl"> {/*Reduce or increase 5xl to give title text line text space */}
           <motion.h1
-            className="text-5xl md:text-7xl font-bold text-white mb-6 leading-[1.1]"
+            className="text-3xl md:text-5xl font-bold text-white mb-6 leading-[1.1]"
             initial={{ opacity: 0, x: -30 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.8, delay: 0.5 }}
