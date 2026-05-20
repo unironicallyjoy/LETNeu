@@ -297,9 +297,7 @@ export const pastEvents: Event[] = [
       }
     ],
     gallery: [
-      "https://i.postimg.cc/mkSwJr3p/Whats-App-Image-2025-04-28-at-16-49-43.jpg",
-      "https://i.postimg.cc/9FDPQfvP/e1.png",
-      "https://i.postimg.cc/sDbYQrrk/e2.png"
+      "https://i.postimg.cc/mkSwJr3p/Whats-App-Image-2025-04-28-at-16-49-43.jpg"
     ],
     isPast: true,
     flyerUrl: "https://i.postimg.cc/mkSwJr3p/Whats-App-Image-2025-04-28-at-16-49-43.jpg",
@@ -315,14 +313,24 @@ export const pastEvents: Event[] = [
     description: [
       {
         subheading: "Conference Overview",
-        body: "Theme: Innovating Biomedical Research for Transformative National Policies. Featuring plenary speakers Prof. Olumide A.T. Ogundahunsi and Prof. Samuel O. Oluwafemi. Subthemes include advances in molecular biomedicine, neuroscience and neuro-technologies, innovative approaches in phytomedicine, endocrinology and reproductive physiology, anatomical bioanthropology, computational biology and bioinformatics, and artificial intelligence in biomedical research."
+        body: "NSN Coal City 2025 is the 22nd Scientific Conference and Annual General Meeting of the Neuroscience Society of Nigeria (NSN), which took place from September 2 to September 6, 2025\nLETNeu provided travel support for 17 aspiring/young neuroscientists to participate in the annual Neuroscience Society of Nigeria (NSN) 2025 Conference at University of Nigeria, Enugu Campus, Enugu State from 2nd – 6th September 2025.\nThe conference featured a rich program of plenary lectures, symposia, workshops, and poster sessions covering a wide range of neuroscience topics. It provided an excellent platform for networking, knowledge exchange, and showcasing cutting-edge research in the field of neuroscience in Nigeria and beyond.\nLETNeu's support enabled these young neuroscientists to present their research, engage with leading experts, and foster collaborations that will contribute to the advancement of neuroscience in Nigeria.\nHosted at the University of Nigeria, Enugu Campus (UNEC), the conference was centered around the theme: Advancing Neuroscience in Nigeria: Bridging the Gap in Research, Innovation and Clinical Practice."
       }
     ],
     imageUrl: "https://i.postimg.cc/3NY3PDSJ/LETNeu-ISN-2025.jpg",
+    organizers: [
+      {
+        name: "Neuroscience Society of Nigeria",
+        position: "NSN COAL CITY 2025",
+        email: undefined
+      }
+    ],
     gallery: [
-      "https://i.postimg.cc/mkSwJr3p/Whats-App-Image-2025-04-28-at-16-49-43.jpg",
-      "https://i.postimg.cc/9FDPQfvP/e1.png",
-      "https://i.postimg.cc/sDbYQrrk/e2.png"
+      "/hero-media/nsn-1.jfif",
+      "/hero-media/nsn-2.jfif",
+      "/hero-media/nsn-3.jfif",
+      "/hero-media/nsn-4.jfif",
+      "/hero-media/nsn-5.jfif",
+      "/hero-media/nsn-6.jfif"
     ],
     isPast: true,
     flyerUrl: "https://i.postimg.cc/3NY3PDSJ/LETNeu-ISN-2025.jpg",
@@ -341,6 +349,40 @@ export const pastEvents: Event[] = [
       }
     ],
     imageUrl: "https://i.postimg.cc/brWttQKx/e3.png",
+    gallery: [
+      "/hero-media/ISN-43.jpg",
+      "/hero-media/ISN-44.jpg",
+      "/hero-media/ISN-86.jpg",
+      "/hero-media/ISN-88.jpg",
+      "/hero-media/ISN-89.jpg",
+      "/hero-media/ISN-50.jpg",
+      "/hero-media/ISN-55.jpg",
+      "/hero-media/ISN-70.jpg",
+      "/hero-media/ISN-101.jpg",
+      "/hero-media/ISN-110.jpg",
+      "/hero-media/ISN-126.jpg",
+      "/hero-media/ISN-150.jpg",
+      "/hero-media/ISN-165.jpg",
+      "/hero-media/ISN-178.jpg",
+      "/hero-media/ISN-Dy02-3.jpg",
+      "/hero-media/ISN-Dy02-4.jpg",
+      "/hero-media/ISN-Dy02-5.jpg",
+      "/hero-media/ISN-Dy02-61.jpg",
+      "/hero-media/ISN-Dy02-71.jpg",
+      "/hero-media/ISN-Dy02-84.jpg",
+      "/hero-media/ISN-Dy02-108.jpg",
+      "/hero-media/ISN-Dy02-116.jpg",
+      "/hero-media/ISN-Dy02-117.jpg",
+      "/hero-media/ISN-Dy02-119.jpg",
+      "/hero-media/ISN-98.jpg",
+      "/hero-media/ISN-Dy02-123.jpg",
+      "/hero-media/ISN-Dy02-146.jpg",
+      "/hero-media/ISN-Dy02-150.jpg",
+      "/hero-media/ISN-85.jpg",
+      "/hero-media/ISN-61.jpg",
+      "/hero-media/ISN-199.jpg",
+      "/hero-media/ISN-30.jpg"
+    ],
     isPast: true,
     category: 'symposium'
   }
